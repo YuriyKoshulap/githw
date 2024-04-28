@@ -1,0 +1,1 @@
+Why deb-based distros have not introduced new qt(v.6)? Rpm-based (and rolling flavors of) Fedora, OpenSuse moves to qt6, and Arch-world have it. But even the testing version of Debian still stick with qt5. Shame.

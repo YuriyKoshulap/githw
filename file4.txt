@@ -1,0 +1,1 @@
+And how come music productioni distros (Ubuntu Studio) has not moved to the PipeWire yet? Though the Jack layer had a huge influence on mus production on Linux, it's at least a year to move on.
